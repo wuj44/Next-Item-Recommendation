@@ -4,7 +4,7 @@ This repository includes code for DS5720 Social Network Analysis final project.
 
 Amazon KDD Cup ‘23, Task 1 Next Product Recommendation (https://www.aicrowd.com/challenges/amazon-kdd-cup-23-multilingual-recommendation-challenge/problems/task-1-next-product-recommendation)
 
-#Data
+# Data
 
 The Multilingual Shopping Session Dataset is a collection of anonymized customer sessions containing products from different locales, which consists of user sessions and product attributes. User sessions are a list of products that a user has engaged with in chronological order, while product attributes include various details like product title, price in local currency, brand, color, and description. Only the locales of English, German, and Japanese will be used in task 1. The proportion of each language is about 10:1:1.
 
