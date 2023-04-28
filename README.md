@@ -1,3 +1,4 @@
+# next-item-recommendation
 This repository includes code for DS5720 Social Network Analysis final project.
 
 # Project
